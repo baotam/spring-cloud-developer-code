@@ -20,7 +20,7 @@
 
     <properties>
         <!-- Java Version -->
-        <java.version>11</java.version>
+        <java.version>8</java.version>
 
         <!-- Testing Component Versions -->
         <assertj.version>3.11.1</assertj.version>
